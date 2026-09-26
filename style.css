@@ -1,3 +1,6 @@
+.headBox {
+  position: fixed;
+}
 h2 {
   color: darkgreen;
   font-size: 20px;
