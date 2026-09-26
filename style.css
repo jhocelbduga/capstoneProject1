@@ -45,44 +45,51 @@ h3 {
     line-height: 3cap;
 }
 .imgHead {
+  width: min(90vw, 1200px);
   background-color: aquamarine;
-  padding: auto;
+  padding: 1rem;
   border: 0cm;
-  margin: auto;
+  margin: 0 auto;
 }
 .summaryHead {
+  width: min(90vw, 1200px);
   background-color: beige;
-  padding: auto;
+  padding: 1rem;
   border: 0cm;
-  margin: auto;
+  margin: 0 auto;
 }
 .eduSection {
+  width: min(90vw, 1200px);
   background-color: aquamarine;
-  padding: auto;
+  padding: 1rem;
   border: 0cm;
-  margin: auto;
+  margin: 0 auto;
 }
 .proExSection {
+  width: min(90vw, 1200px);
   background-color: beige;
-  padding: auto;
+  padding: 1rem;
   border: 0cm;
-  margin: auto;
+  margin: 0 auto;
 }
 .skillsSection {
+  width: min(90vw, 1200px);
   background-color: aquamarine;
-  padding: auto;
+  padding: 1rem;
   border: 0cm;
-  margin: auto;
+  margin: 0 auto;
 }
 .badgeSection {
+  width: min(90vw, 1200px);
   background-color: beige;
-  padding: auto;
+  padding: 1rem;
   border: 0cm;
-  margin: auto;
+  margin: 0 auto;
 }
 .adInfoSection {
+  width: min(90vw, 1200px);
   background-color: aquamarine;
-  padding: auto;
+  padding: 1rem;
   border: 0cm;
-  margin: auto;
+  margin: 0 auto;
 }
