@@ -44,3 +44,45 @@ h3 {
     color: gray;
     line-height: 3cap;
 }
+.imgHead {
+  background-color: aquamarine;
+  padding: auto;
+  border: 0cm;
+  margin: auto;
+}
+.summaryHead {
+  background-color: beige;
+  padding: auto;
+  border: 0cm;
+  margin: auto;
+}
+.eduSection {
+  background-color: aquamarine;
+  padding: auto;
+  border: 0cm;
+  margin: auto;
+}
+.proExSection {
+  background-color: beige;
+  padding: auto;
+  border: 0cm;
+  margin: auto;
+}
+.skillsSection {
+  background-color: aquamarine;
+  padding: auto;
+  border: 0cm;
+  margin: auto;
+}
+.badgeSection {
+  background-color: beige;
+  padding: auto;
+  border: 0cm;
+  margin: auto;
+}
+.adInfoSection {
+  background-color: aquamarine;
+  padding: auto;
+  border: 0cm;
+  margin: auto;
+}
