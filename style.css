@@ -44,52 +44,20 @@ h3 {
     color: gray;
     line-height: 3cap;
 }
-.imgHead {
-  width: min(90vw, 1200px);
-  background-color: aquamarine;
-  padding: 1rem;
-  border: 0cm;
-  margin: 0 auto;
-}
-.summaryHead {
-  width: min(90vw, 1200px);
-  background-color: beige;
-  padding: 1rem;
-  border: 0cm;
-  margin: 0 auto;
-}
-.eduSection {
-  width: min(90vw, 1200px);
-  background-color: aquamarine;
-  padding: 1rem;
-  border: 0cm;
-  margin: 0 auto;
-}
-.proExSection {
-  width: min(90vw, 1200px);
-  background-color: beige;
-  padding: 1rem;
-  border: 0cm;
-  margin: 0 auto;
-}
-.skillsSection {
-  width: min(90vw, 1200px);
-  background-color: aquamarine;
-  padding: 1rem;
-  border: 0cm;
-  margin: 0 auto;
-}
-.badgeSection {
-  width: min(90vw, 1200px);
-  background-color: beige;
-  padding: 1rem;
-  border: 0cm;
-  margin: 0 auto;
-}
+.imgHead,
+.summaryHead,
+.eduSection,
+.proExSection,
+.skillsSection,
+.badgeSection,
 .adInfoSection {
-  width: min(90vw, 1200px);
-  background-color: aquamarine;
-  padding: 1rem;
-  border: 0cm;
-  margin: 0 auto;
+width: min(90vw, 1200px);
+padding: 1rem;
+margin: 0 auto;
+ 
+border: 2px solid transparent;
+border-radius: 12px;
+background:
+linear-gradient(white, white) padding-box,
+linear-gradient(90deg, #00c6ff, #0072ff, #00c6ff) border-box;
 }
