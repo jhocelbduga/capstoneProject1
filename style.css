@@ -1,0 +1,46 @@
+h2 {
+  color: darkgreen;
+  font-size: 20px;
+}
+h3 {
+  color: navy;
+  font-size: 18px;
+}
+.horizontal-rule {
+  color: gray;
+}
+.skills {
+  font-size: 18px;
+  color: gray;
+}
+.scopeOfWork {
+  font-size: 18px;
+  color: gray;
+}
+.strongBold {
+  font-weight: bold;
+  color: gray;
+  font-size: 18px;
+}
+.paragraphSummary {
+  font-size: 20px;
+  color: gray;
+}
+.listEducation {
+  font-size: 16px;
+  color: gray;
+}
+.ProExParagraph {
+  font-size: 16px;
+  color: gray;
+}
+.badgeLink {
+    font-size: 16px;
+    color: gray;
+    line-height: 3cap;
+}
+.PortfolioLink {
+    font-size: 16px;
+    color: gray;
+    line-height: 3cap;
+}
